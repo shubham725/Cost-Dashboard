@@ -1,0 +1,12 @@
+.navbar .nav-link {
+    color: #ffffff;
+  }
+  
+  .navbar .nav-link:hover {
+    color: #41940a;
+  }
+  
+  .navbar .badge {
+    font-size: 0.75rem;
+  }
+  

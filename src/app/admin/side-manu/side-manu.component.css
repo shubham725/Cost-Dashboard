@@ -1,0 +1,18 @@
+.nav-link {
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 17px;
+    color: #ffffff;
+}
+
+.nav-link:hover {
+    background-color: #495057;
+    border-radius: 5px;
+}
+
+.collapse .nav-link {
+    font-size: 13px;
+    padding-left: 40px;
+}
